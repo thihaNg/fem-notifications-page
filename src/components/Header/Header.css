@@ -1,0 +1,17 @@
+.header-container {
+  display: flex;
+  align-items: center;
+  padding: 32px 0px;
+}
+
+.header-container > span:nth-child(3) {
+  margin-left: auto;
+}
+
+.badge-wrapper {
+  background-color: var(--blue);
+  border-radius: 4px;
+  padding: 2px 4px;
+  padding: 2px 6px;
+  margin-left: 16px;
+}
